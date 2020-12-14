@@ -1,0 +1,7 @@
+syntax: glob
+node_modules/**/*
+dist/**/*
+Debug/**/*
+Release/**/*
+Test/**/*
+tmp/**/*
